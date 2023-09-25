@@ -1,0 +1,1 @@
+FOR /L %N IN () DO npm test
